@@ -27,6 +27,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### macOS Patch ###
+# iCloud generated files
+*.icloud
+
+# text editors backup files
+*~
 
 
 ### Node ###
